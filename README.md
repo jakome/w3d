@@ -1,2 +1,15 @@
 # w3d
-3d app in wails
+
+A Wails desktop app with a Babylon.js-powered main 3D scene.
+
+## Development
+
+```bash
+wails dev
+```
+
+## Build
+
+```bash
+wails build
+```
